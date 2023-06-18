@@ -20,6 +20,7 @@ Hey There, I am Tawanda a Data Engineer.
 
    - Pyspark to process large Datasets
    - Terraform Infastructure as Code
+   - Apache Kafka 
 
 ---
 
