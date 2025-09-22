@@ -6,11 +6,11 @@
 
 ### :man_technologist: About Me :
 
-Hey There, I am Tawanda a Microsoft Azure Certified Data Engineer.
+Hey There, I am Tawanda a Snowflake Certified Data Engineer.
 
 - :telescope: I work as a Data Engineer, specializing in developing straightforward and efficient methods to move data from various origins to the intended destination. My aim is to ensure that the data becomes valuable for tasks such as analytics, troubleshooting, and decision-making.
 
-- :seedling: At present, I am engaged as a self-employed Data Engineer and actively enhancing my expertise in the field.
+- :seedling: At present, I am engaged as a Data Engineer at Datalab and actively enhancing my expertise in the field.
 
 - :zap: In my free time, I solve problems on Leetcode.
 - I possess proficiency in several skills including Python, SQL, Snowflake, EC2, Airflow, AWS Redshift, Glue, S3, DBT, Aure Data Factory, Azure Databricks, Azure 
